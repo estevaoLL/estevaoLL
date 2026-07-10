@@ -9,11 +9,11 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 - **Desenvolvimento Full-Stack:** Projetos de aplicações web estruturadas de ponta a ponta (utilizando `React.js`, `Node.js` e ecossistema JavaScript).
 - **Computação Científica:** Estudos e algoritmos fundamentais implementados em `C++` e `Python`.
 
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Linguagens:** <br>
+<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
 
 ### 📫 Como me encontrar:
