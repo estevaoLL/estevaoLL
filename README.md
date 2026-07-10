@@ -10,8 +10,10 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 - **Computação Científica:** Estudos e algoritmos fundamentais implementados em `C++` e `Python`.
 
 **Linguagens:**  
-`Python` | `C++` | `JavaScript` | `SQL` <img width="448" height="446" alt="image" src="https://github.com/user-attachments/assets/6732e1d2-9b41-43c5-af9f-5b16c52550f1" />
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 📫 Como me encontrar:
