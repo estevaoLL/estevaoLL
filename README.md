@@ -6,8 +6,8 @@ Bem-vindo ao meu GitHub! Utilizo este espaço como um portfólio vivo para docum
 
 ### 🔭 O que eu ando fazendo:
 - Atualmente sou Pesquisador de Iniciação Científica (Bolsista FAPERJ) no CBPF, focado em simulações de fluidos utilizando o Método de Lattice Boltzmann (LBM).
-- Programo ativamente em **Python** e **C++** para modelagem computacional e processamento de alto desempenho (HPC).
-- Construo e treino modelos de Machine Learning e Visão Computacional (TensorFlow/Keras).
+- Programo ativamente em **Python** e **C++** para modelagem computacional.
+- Construo e treino modelos de Machine Learning e Visão Computacional.
 - Desenvolvo aplicações web Full-Stack estruturadas e responsivas.
 
 **Linguagens:**  
