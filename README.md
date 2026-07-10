@@ -1,4 +1,4 @@
-# Olá! Eu sou o Estevão 👋
+# Estevão Mello
 
 🎓 **Estudante de Engenharia de Computação na UERJ | 21 anos**
 
