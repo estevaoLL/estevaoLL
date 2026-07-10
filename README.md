@@ -19,5 +19,3 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevão-mello)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevao_mello@hotmail.com)
-
-> *"Aplicando tecnologia para resolver desde problemas matemáticos complexos até a construção de aplicações reais."*
