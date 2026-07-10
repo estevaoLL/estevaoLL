@@ -10,7 +10,8 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 - **Computação Científica:** Estudos e algoritmos fundamentais implementados em `C++` e `Python`.
 
 **Linguagens:**  
-`Python` | `C++` | `JavaScript` | `SQL` ![Python](https://shields.io)
+`Python` | `C++` | `JavaScript` | `SQL` <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bb191c25-ca64-4b9b-ae64-f22c1adf6fa9" />
+
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevão-mello)
