@@ -1,6 +1,6 @@
 # Estevão Mello
 
-🎓 **Estudante de Engenharia de Computação na UERJ | 21 anos**
+**Estudante de Engenharia de Computação na UERJ | 21 anos**
 
 Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meus códigos, estudos e projetos práticos. Meu foco é aplicar algoritmos e tecnologias modernas para resolver problemas através de software.
 
@@ -10,10 +10,10 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 - **Computação Científica:** Estudos e algoritmos fundamentais implementados em `C++` e `Python`.
 
 **Linguagens:** <br>
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="center" alt="Python" title="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="C++" title="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="SQL" title="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
 
 ### 📫 Como me encontrar:
