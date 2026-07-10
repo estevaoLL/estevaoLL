@@ -2,13 +2,12 @@
 
 🎓 **Estudante de Engenharia de Computação na UERJ | 21 anos**
 
-Utilizo este espaço como um portfólio para documentar e compartilhar os projetos que desenvolvo. Busco transformar matemática e lógica em código, e minha trajetória técnica transita entre a **Computação Científica**, **Inteligência Artificial** e o **Desenvolvimento de Software**.
+Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meus códigos, estudos e projetos práticos. Meu foco é aplicar algoritmos e tecnologias modernas para resolver problemas através de software.
 
-### O que eu ando fazendo:
-- Atualmente sou Pesquisador de Iniciação Científica (Bolsista FAPERJ) no CBPF, focado em simulações de fluidos utilizando o Método de Lattice Boltzmann (LBM).
-- Programo ativamente em **Python** e **C++** para modelagem computacional.
-- Construo e treino modelos de Machine Learning e Visão Computacional.
-- Desenvolvo aplicações web Full-Stack estruturadas e responsivas.
+### O que você vai encontrar por aqui:
+- **Inteligência Artificial & Dados:** Repositórios focados em modelagem preditiva, Visão Computacional e análise de dados clínicos (utilizando `Python`, `TensorFlow/Keras` e `Scikit-learn`).
+- **Desenvolvimento Full-Stack:** Projetos de aplicações web estruturadas de ponta a ponta (utilizando `React.js`, `Node.js` e ecossistema JavaScript).
+- **Computação Científica:** Estudos e algoritmos fundamentais implementados em `C++` e `Python`.
 
 **Linguagens:**  
 `Python` | `C++` | `JavaScript` | `SQL`
