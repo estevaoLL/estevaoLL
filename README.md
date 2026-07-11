@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Utilizo este espaço para documentar e compartilhar meu
 ### O que você vai encontrar por aqui:
 - **Inteligência Artificial & Dados:** Repositórios focados em modelagem preditiva, Visão Computacional e análise de dados clínicos (utilizando `Python`, `TensorFlow/Keras` e `Scikit-learn`).
 - **Desenvolvimento Full-Stack:** Projetos de aplicações web estruturadas de ponta a ponta (utilizando `React.js`, `Node.js` e ecossistema JavaScript).
-- **Computação Científica:** Estudos e algoritmos implementados em `C++` e `Python`.
+- **Software & Computação Científica:** Aplicações de uso geral, estudos e algoritmos implementados em `C++` e `Python`.
 
 **Linguagens:** <br>
 <img align="center" alt="Python" title="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
